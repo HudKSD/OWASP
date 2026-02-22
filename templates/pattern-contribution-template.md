@@ -1,1 +1,0 @@
-# Pattern contribution template

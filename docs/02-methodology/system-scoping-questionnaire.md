@@ -1,1 +1,0 @@
-# System scoping questionnaire
