@@ -1,0 +1,7 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/ai_attack_surface_map.schema.json",
+  "title": "AI Attack Surface Map",
+  "type": "object",
+  "required": ["system", "surfaces", "trust_boundaries", "version"]
+}
